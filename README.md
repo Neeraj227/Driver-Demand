@@ -1,4 +1,4 @@
-# Driver-Demand
+# Driver Demand Prediction
 This project involves analyzing and clustering NYC yellow taxi trip data for the year 2015. The data includes information on pick-up and drop-off locations and times, trip distances, fares, rate types, payment methods, and passenger counts. Using this data, spatial and temporal clustering techniques are applied to uncover insights about taxi trip patterns and key locations within the city.
 
 # Data Information
